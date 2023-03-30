@@ -1,0 +1,9 @@
+img{
+    height: 100vh;
+}
+.not-found{
+    background-image: url('../../assets/images/404error.gif');
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+}
